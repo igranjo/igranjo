@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ítalo Granjo 
-- 👀 I’m interested in games, volleyball, chess and programming, with a special interest in backend development
-- 🌱 I’m currently learning HTML, CSS and JavaScript through the Potência Tech powered by Ifood program; C through the CS50 program and I'm also at my first semester at the System Developing college.
+- 👀 I’m interested in games, volleyball, chess and programming, with a special interest in backend development.
+- 🌱 I’m currently learning HTML, CSS and JavaScript through the Potência Tech powered by Ifood program; C through the CS50 program and I'm also at my first semester at the System Developing course.
 <!---
 - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me : @igranjo in most social media, https://www.linkedin.com/in/italogranjo/ in LinkedIn.
